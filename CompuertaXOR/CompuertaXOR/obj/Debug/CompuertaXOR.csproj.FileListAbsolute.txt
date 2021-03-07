@@ -1,0 +1,7 @@
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\bin\Debug\CompuertaXOR.exe.config
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\bin\Debug\CompuertaXOR.exe
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\bin\Debug\CompuertaXOR.pdb
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\obj\Debug\CompuertaXOR.csprojAssemblyReference.cache
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\obj\Debug\CompuertaXOR.csproj.CoreCompileInputs.cache
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\obj\Debug\CompuertaXOR.exe
+C:\Users\Juan Esteban\source\repos\CompuertaXOR\CompuertaXOR\obj\Debug\CompuertaXOR.pdb
